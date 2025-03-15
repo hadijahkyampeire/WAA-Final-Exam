@@ -1,0 +1,20 @@
+.section {
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  border: 2px solid #ddd; 
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1rem;
+}
+
+.section .btn-link {
+  background-color: lightgray;
+  padding: 0.25rem;
+  color: black;
+  width: 8rem;
+  cursor: pointer;
+  text-decoration: none;
+  margin: auto;
+}

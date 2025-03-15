@@ -1,0 +1,8 @@
+.students-container {
+  border: 2px solid #ddd; 
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}

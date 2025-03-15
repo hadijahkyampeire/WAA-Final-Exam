@@ -1,0 +1,10 @@
+.section-details .footer {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+button {
+  width: 8rem;
+  margin: auto;
+}
